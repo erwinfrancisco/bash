@@ -31,6 +31,4 @@ echo "Multiplicar A *=B " $((numA *= numB))
 echo "Dividir A /=B " $((numA /= numB))
 echo "Residuo A %=B " $((numA %= numB))
 
-
-
-
+echo "Fin del programa"
